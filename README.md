@@ -1,8 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
+A fun hangman-style word guessing game. Guess carefully or risk being taken back to the dark ages!
+
+I created this project from a figma design using React while working through Scrimba's Frontend Developer path.
+
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
